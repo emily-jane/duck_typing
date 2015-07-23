@@ -1,0 +1,3 @@
+DUCK TYPING
+
+Duck typing means that an object doesn't rely on it's class, just the methods within its class to pass a method. An object will pass a method as long as the methods match, irrelevant of class. So if an object walks like a duck and talks like a duck, then the Ruby interpreter is happy to treat it as if it were a duck.
